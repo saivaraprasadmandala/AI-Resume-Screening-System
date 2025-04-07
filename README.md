@@ -3,7 +3,7 @@
 ## 📌 Overview
 The **AI Resume Screening & Candidate Ranking System** automates the recruitment process by analyzing resumes and ranking candidates based on job descriptions. The system leverages **TF-IDF (Term Frequency-Inverse Document Frequency)** and **Cosine Similarity** to assess how well a candidate's resume matches a given job role. It extracts text from PDFs, processes it using **Natural Language Processing (NLP)** techniques, and provides recruiters with a ranked list of candidates.
 
-🔗 *Live Demo*: [AI Resume Screening System](https://ai-resume-screening-system-1ffo.onrender.com/)
+🔗 *Website*: [AI Resume Screening System](https://ai-resume-screening-system-1ffo.onrender.com/)
 
 ## 🚀 Features
 - **Automated Resume Parsing**: Extracts text from PDF resumes using `PyPDF2`.
